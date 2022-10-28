@@ -2,7 +2,7 @@
     "products": [
         {
             "name": "Basil and Feta",
-            "src": "https://github.com/lubov-nefed/ajax-training/blob/main/images/basil-and-feta.jpg",
+            "url": "https://raw.githubusercontent.com/lubov-nefed/ajax-training/main/images/basil-and-feta.jpg",
             "ingredients": "basil, feta, pesto, swiss and maasdam cheese",
             "description": "Excellent choice for those who prefer pizza without tomatoes.",
             "price": "10$",
@@ -10,7 +10,7 @@
         },
         {
             "name": "Pepperoni",
-            "src": "https://github.com/lubov-nefed/ajax-training/blob/main/images/pepperoni.jpg",
+            "url": "https://raw.githubusercontent.com/lubov-nefed/ajax-training/main/images/pepperoni.jpg",
             "ingredients": "salami, mozzarella, chilli pepper,  paprika, tomato sauce",
             "description": "Classic choice. You won't be dissapointed.",
             "price": "8$",
@@ -18,7 +18,7 @@
         },
         {
             "name": "Pineapple and Onion",
-            "src": "https://github.com/lubov-nefed/ajax-training/blob/main/images/pineapple-and-onion.jpg",
+            "url": "https://raw.githubusercontent.com/lubov-nefed/ajax-training/main/images/pineapple-and-onion.jpg",
             "ingredients": "pineapple, onion, mozzarella cheese, chicken, basil, hawaiian sauce",
             "description": "Great if you want something exotic.",
             "price": "12$",
@@ -26,7 +26,7 @@
         },
         {
             "name": "Margherita",
-            "src": "https://github.com/lubov-nefed/ajax-training/blob/main/images/margherita.jpg",
+            "url": "https://raw.githubusercontent.com/lubov-nefed/ajax-training/main/images/margherita.jpg",
             "ingredients": "tomatoes, mozzarella cheese, basil leaves, garlic, pizza sauce, black pepper",
             "description": "Sophisticated but simple at the same time.",
             "price": "11$",
@@ -34,7 +34,7 @@
         },
         {
             "name": "Vegetable",
-            "src": "https://github.com/lubov-nefed/ajax-training/blob/main/images/vegetable.jpg",
+            "url": "https://raw.githubusercontent.com/lubov-nefed/ajax-training/main/images/vegetable.jpg",
             "ingredients": "zucchini, onion, cheddar cheese, cauliflower",
             "description": "Vegan friendly.",
             "price": "11$",
