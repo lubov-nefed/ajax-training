@@ -5,40 +5,40 @@
             "url": "https://raw.githubusercontent.com/lubov-nefed/ajax-training/main/images/basil-and-feta.jpg",
             "ingredients": "basil, feta, pesto, swiss and maasdam cheese",
             "description": "Excellent choice for those who prefer pizza without tomatoes.",
-            "price": "10$",
-            "oneSlice": "3$"
+            "price": "10",
+            "oneSlice": "3"
         },
         {
             "name": "Pepperoni",
             "url": "https://raw.githubusercontent.com/lubov-nefed/ajax-training/main/images/pepperoni.jpg",
             "ingredients": "salami, mozzarella, chilli pepper,  paprika, tomato sauce",
             "description": "Classic choice. You won't be dissapointed.",
-            "price": "8$",
-            "oneSlice": "2$"
+            "price": "8",
+            "oneSlice": "2"
         },
         {
             "name": "Pineapple and Onion",
             "url": "https://raw.githubusercontent.com/lubov-nefed/ajax-training/main/images/pineapple-and-onion.jpg",
             "ingredients": "pineapple, onion, mozzarella cheese, chicken, basil, hawaiian sauce",
             "description": "Great if you want something exotic.",
-            "price": "12$",
-            "oneSlice": "3.5$"
+            "price": "12",
+            "oneSlice": "3.5"
         },
         {
             "name": "Margherita",
             "url": "https://raw.githubusercontent.com/lubov-nefed/ajax-training/main/images/margherita.jpg",
             "ingredients": "tomatoes, mozzarella cheese, basil leaves, garlic, pizza sauce, black pepper",
             "description": "Sophisticated but simple at the same time.",
-            "price": "11$",
-            "oneSlice": "3.5$"
+            "price": "11",
+            "oneSlice": "3.5"
         },
         {
             "name": "Vegetable",
             "url": "https://raw.githubusercontent.com/lubov-nefed/ajax-training/main/images/vegetable.jpg",
             "ingredients": "zucchini, onion, cheddar cheese, cauliflower",
             "description": "Vegan friendly.",
-            "price": "11$",
-            "oneSlice": "3.5$"
+            "price": "11",
+            "oneSlice": "3.5"
         }
     ]
 }
