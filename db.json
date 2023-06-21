@@ -1,5 +1,6 @@
 {
-    "products": [
+    "pizza-market": {
+       "products": [
         {
             "name": "Basil and Feta",
             "url": "https://raw.githubusercontent.com/lubov-nefed/ajax-training/main/images/basil-and-feta.jpg",
@@ -40,5 +41,7 @@
             "price": "11",
             "oneSlice": "3.5"
         }
-    ]
+    ] 
+    }
+    
 }
