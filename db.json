@@ -42,6 +42,31 @@
             "oneSlice": "3.5"
         }
     ] 
+    },
+    "easy-recipe"{
+          "recipes": [
+                  {
+      "heading": "The Best Dish Ever",
+      "img": "images/dish__img.jpg",
+      "ingredients": "love, patience, clean hands, inspiration, kitchen",
+      "time": "20 min",
+      "servings": "1"
+    },
+    {
+      "heading": "Potato Casserole",
+      "img": "images/potato-casserole.jpg",
+      "ingredients": "potato, meat, onion, cheese, pepper",
+      "time": "45 min",
+      "servings": "2"
+    },
+    {
+      "heading": "Raspberry Cake",
+      "img": "images/raspberry-cake.jpg",
+      "ingredients": "raspberry, flour, pistachio, butter, eggs",
+      "time": "55 min",
+      "servings": "6"
     }
-    
+
+          ]
+}
 }
