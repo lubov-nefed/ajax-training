@@ -1,72 +1,187 @@
 {
-    "pizza-market": {
-       "products": [
-        {
-            "name": "Basil and Feta",
-            "url": "https://raw.githubusercontent.com/lubov-nefed/ajax-training/main/images/basil-and-feta.jpg",
-            "ingredients": "basil, feta, pesto, swiss and maasdam cheese",
-            "description": "Excellent choice for those who prefer pizza without tomatoes.",
-            "price": "10",
-            "oneSlice": "3"
+  "pizza-market": {
+    "products": [
+      {
+        "name": "Basil and Feta",
+        "url": "https://raw.githubusercontent.com/lubov-nefed/ajax-training/main/images/basil-and-feta.jpg",
+        "ingredients": "basil, feta, pesto, swiss and maasdam cheese",
+        "description": "Excellent choice for those who prefer pizza without tomatoes.",
+        "price": "10",
+        "oneSlice": "3"
+      },
+      {
+        "name": "Pepperoni",
+        "url": "https://raw.githubusercontent.com/lubov-nefed/ajax-training/main/images/pepperoni.jpg",
+        "ingredients": "salami, mozzarella, chilli pepper,  paprika, tomato sauce",
+        "description": "Classic choice. You won't be dissapointed.",
+        "price": "8",
+        "oneSlice": "2"
+      },
+      {
+        "name": "Pineapple and Onion",
+        "url": "https://raw.githubusercontent.com/lubov-nefed/ajax-training/main/images/pineapple-and-onion.jpg",
+        "ingredients": "pineapple, onion, mozzarella cheese, chicken, basil, hawaiian sauce",
+        "description": "Great if you want something exotic.",
+        "price": "12",
+        "oneSlice": "3.5"
+      },
+      {
+        "name": "Margherita",
+        "url": "https://raw.githubusercontent.com/lubov-nefed/ajax-training/main/images/margherita.jpg",
+        "ingredients": "tomatoes, mozzarella cheese, basil leaves, garlic, pizza sauce, black pepper",
+        "description": "Sophisticated but simple at the same time.",
+        "price": "11",
+        "oneSlice": "3.5"
+      },
+      {
+        "name": "Vegetable",
+        "url": "https://raw.githubusercontent.com/lubov-nefed/ajax-training/main/images/vegetable.jpg",
+        "ingredients": "zucchini, onion, cheddar cheese, cauliflower",
+        "description": "Vegan friendly.",
+        "price": "11",
+        "oneSlice": "3.5"
+      }
+    ]
+  },
+  "easy-recipe": {
+    "recipes": [
+      {
+        "heading": "The Best Dish Ever",
+        "img": "images/dish__img.jpg",
+        "ingredients": "love, patience, clean hands, inspiration, kitchen",
+        "time": "20 min",
+        "servings": "1"
+      },
+      {
+        "heading": "Potato Casserole",
+        "img": "images/potato-casserole.jpg",
+        "ingredients": "potato, meat, onion, cheese, pepper",
+        "time": "45 min",
+        "servings": "2"
+      },
+      {
+        "heading": "Raspberry Cake",
+        "img": "images/raspberry-cake.jpg",
+        "ingredients": "raspberry, flour, pistachio, butter, eggs",
+        "time": "55 min",
+        "servings": "6"
+      }
+    ]
+  },
+  "zadira": {
+    "products": [
+      {
+        "id": "CT-24009",
+        "name": "Monkey with hat",
+        "brand": "Toy Bash",
+        "img": "",
+        "oldPrice": "59$",
+        "currentPrice": "45$",
+        "starRating": "4.4",
+        "isDiscounted": {
+          "status": "true",
+          "value": "-30%"
         },
-        {
-            "name": "Pepperoni",
-            "url": "https://raw.githubusercontent.com/lubov-nefed/ajax-training/main/images/pepperoni.jpg",
-            "ingredients": "salami, mozzarella, chilli pepper,  paprika, tomato sauce",
-            "description": "Classic choice. You won't be dissapointed.",
-            "price": "8",
-            "oneSlice": "2"
+        "availability": "Out of stock"
+      },
+      {
+        "id": "CT-23657",
+        "name": "Sad bunny",
+        "brand": "KidsToy",
+        "img": "",
+        "oldPrice": "",
+        "currentPrice": "39$",
+        "starRating": "4",
+        "isDiscounted": {
+          "status": "false",
+          "value": ""
         },
-        {
-            "name": "Pineapple and Onion",
-            "url": "https://raw.githubusercontent.com/lubov-nefed/ajax-training/main/images/pineapple-and-onion.jpg",
-            "ingredients": "pineapple, onion, mozzarella cheese, chicken, basil, hawaiian sauce",
-            "description": "Great if you want something exotic.",
-            "price": "12",
-            "oneSlice": "3.5"
+        "availability": "Stocked on demand"
+      },
+      {
+        "id": "CT-22060",
+        "name": "Knitted rabbit",
+        "brand": "Toytopia",
+        "img": "",
+        "oldPrice": "",
+        "currentPrice": "27$",
+        "starRating": "5",
+        "isDiscounted": {
+          "status": "false",
+          "value": ""
         },
-        {
-            "name": "Margherita",
-            "url": "https://raw.githubusercontent.com/lubov-nefed/ajax-training/main/images/margherita.jpg",
-            "ingredients": "tomatoes, mozzarella cheese, basil leaves, garlic, pizza sauce, black pepper",
-            "description": "Sophisticated but simple at the same time.",
-            "price": "11",
-            "oneSlice": "3.5"
+        "availability": "Out of stock"
+      },
+      {
+        "id": "CT-22058",
+        "name": "Button eyed bear",
+        "brand": "Zadira",
+        "img": "",
+        "oldPrice": "35$",
+        "currentPrice": "31$",
+        "starRating": "3.6",
+        "isDiscounted": {
+          "status": "true",
+          "value": "-10%"
         },
-        {
-            "name": "Vegetable",
-            "url": "https://raw.githubusercontent.com/lubov-nefed/ajax-training/main/images/vegetable.jpg",
-            "ingredients": "zucchini, onion, cheddar cheese, cauliflower",
-            "description": "Vegan friendly.",
-            "price": "11",
-            "oneSlice": "3.5"
-        }
-    ] 
-    },
-    "easy-recipe": {
-          "recipes": [
-                  {
-      "heading": "The Best Dish Ever",
-      "img": "images/dish__img.jpg",
-      "ingredients": "love, patience, clean hands, inspiration, kitchen",
-      "time": "20 min",
-      "servings": "1"
-    },
-    {
-      "heading": "Potato Casserole",
-      "img": "images/potato-casserole.jpg",
-      "ingredients": "potato, meat, onion, cheese, pepper",
-      "time": "45 min",
-      "servings": "2"
-    },
-    {
-      "heading": "Raspberry Cake",
-      "img": "images/raspberry-cake.jpg",
-      "ingredients": "raspberry, flour, pistachio, butter, eggs",
-      "time": "55 min",
-      "servings": "6"
-    }
-
-          ]
-}
+        "availability": "In stock"
+      },
+      {
+        "id": "CT-23258",
+        "name": "White soft bear",
+        "brand": "Funkidz",
+        "img": "",
+        "oldPrice": "",
+        "currentPrice": "39$",
+        "starRating": "4.5",
+        "isDiscounted": {
+          "status": "false",
+          "value": ""
+        },
+        "availability": "In stock"
+      },
+      {
+        "id": "CT-21170",
+        "name": "Knitted bear girl",
+        "brand": "KiddyMart",
+        "img": "",
+        "oldPrice": "47$",
+        "currentPrice": "37$",
+        "starRating": "5",
+        "isDiscounted": {
+          "status": "true",
+          "value": "-25%"
+        },
+        "availability": "In stock"
+      },
+      {
+        "id": "CT-21057",
+        "name": "Octopus soft",
+        "brand": "Popkids",
+        "img": "",
+        "oldPrice": "",
+        "currentPrice": "23$",
+        "starRating": "5",
+        "isDiscounted": {
+          "status": "false",
+          "value": ""
+        },
+        "availability": "Out of stock"
+      },
+      {
+        "id": "CT-23159",
+        "name": "Teddy aviator",
+        "brand": "Playzone",
+        "img": "",
+        "oldPrice": "30$",
+        "currentPrice": "25$",
+        "starRating": "3.2",
+        "isDiscounted": {
+          "status": "true",
+          "value": "-20%"
+        },
+        "availability": "Stocked on demand"
+      }
+    ]
+  }
 }
