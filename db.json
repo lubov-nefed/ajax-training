@@ -68,120 +68,118 @@
       }
     ]
   },
-  "zadira": {
-    "products": [
-      {
-        "id": "CT-24009",
-        "name": "Monkey With Hat",
-        "brand": "Toy Bash",
-        "img": "https://raw.githubusercontent.com/lubov-nefed/ajax-training/main/images/zadira/product-image-5.jpg",
-        "oldPrice": "59$",
-        "currentPrice": "45$",
-        "starRating": "4.4",
-        "isDiscounted": {
-          "status": "true",
-          "value": "-30%"
-        },
-        "availability": "Out of stock"
+  "zadira": [
+    {
+      "id": "CT-24009",
+      "name": "Monkey With Hat",
+      "brand": "Toy Bash",
+      "img": "https://raw.githubusercontent.com/lubov-nefed/ajax-training/main/images/zadira/product-image-5.jpg",
+      "oldPrice": "59$",
+      "currentPrice": "45$",
+      "starRating": "4.4",
+      "isDiscounted": {
+        "status": "true",
+        "value": "-30%"
       },
-      {
-        "id": "CT-23657",
-        "name": "Sad Bunny",
-        "brand": "KidsToy",
-        "img": "https://raw.githubusercontent.com/lubov-nefed/ajax-training/main/images/zadira/product-image-8.jpg",
-        "oldPrice": "",
-        "currentPrice": "39$",
-        "starRating": "4",
-        "isDiscounted": {
-          "status": "false",
-          "value": ""
-        },
-        "availability": "Stocked on demand"
+      "availability": "Out of stock"
+    },
+    {
+      "id": "CT-23657",
+      "name": "Sad Bunny",
+      "brand": "KidsToy",
+      "img": "https://raw.githubusercontent.com/lubov-nefed/ajax-training/main/images/zadira/product-image-8.jpg",
+      "oldPrice": "",
+      "currentPrice": "39$",
+      "starRating": "4",
+      "isDiscounted": {
+        "status": "false",
+        "value": ""
       },
-      {
-        "id": "CT-22060",
-        "name": "Knitted Rabbit",
-        "brand": "Toytopia",
-        "img": "https://raw.githubusercontent.com/lubov-nefed/ajax-training/main/images/zadira/product-image-4.jpg",
-        "oldPrice": "",
-        "currentPrice": "27$",
-        "starRating": "5",
-        "isDiscounted": {
-          "status": "false",
-          "value": ""
-        },
-        "availability": "Out of stock"
+      "availability": "Stocked on demand"
+    },
+    {
+      "id": "CT-22060",
+      "name": "Knitted Rabbit",
+      "brand": "Toytopia",
+      "img": "https://raw.githubusercontent.com/lubov-nefed/ajax-training/main/images/zadira/product-image-4.jpg",
+      "oldPrice": "",
+      "currentPrice": "27$",
+      "starRating": "5",
+      "isDiscounted": {
+        "status": "false",
+        "value": ""
       },
-      {
-        "id": "CT-22058",
-        "name": "Yellow Minion",
-        "brand": "Zadira",
-        "img": "https://raw.githubusercontent.com/lubov-nefed/ajax-training/main/images/zadira/product-image-3.jpg",
-        "oldPrice": "35$",
-        "currentPrice": "31$",
-        "starRating": "3.6",
-        "isDiscounted": {
-          "status": "true",
-          "value": "-10%"
-        },
-        "availability": "In stock"
+      "availability": "Out of stock"
+    },
+    {
+      "id": "CT-22058",
+      "name": "Yellow Minion",
+      "brand": "Zadira",
+      "img": "https://raw.githubusercontent.com/lubov-nefed/ajax-training/main/images/zadira/product-image-3.jpg",
+      "oldPrice": "35$",
+      "currentPrice": "31$",
+      "starRating": "3.6",
+      "isDiscounted": {
+        "status": "true",
+        "value": "-10%"
       },
-      {
-        "id": "CT-23258",
-        "name": "White Soft Bear",
-        "brand": "Funkidz",
-        "img": "https://raw.githubusercontent.com/lubov-nefed/ajax-training/main/images/zadira/product-image-7.jpg",
-        "oldPrice": "",
-        "currentPrice": "39$",
-        "starRating": "4.5",
-        "isDiscounted": {
-          "status": "false",
-          "value": ""
-        },
-        "availability": "In stock"
+      "availability": "In stock"
+    },
+    {
+      "id": "CT-23258",
+      "name": "White Soft Bear",
+      "brand": "Funkidz",
+      "img": "https://raw.githubusercontent.com/lubov-nefed/ajax-training/main/images/zadira/product-image-7.jpg",
+      "oldPrice": "",
+      "currentPrice": "39$",
+      "starRating": "4.5",
+      "isDiscounted": {
+        "status": "false",
+        "value": ""
       },
-      {
-        "id": "CT-21170",
-        "name": "Knitted Bear Girl",
-        "brand": "KiddyMart",
-        "img": "https://raw.githubusercontent.com/lubov-nefed/ajax-training/main/images/zadira/product-image-6.jpg",
-        "oldPrice": "47$",
-        "currentPrice": "37$",
-        "starRating": "5",
-        "isDiscounted": {
-          "status": "true",
-          "value": "-25%"
-        },
-        "availability": "In stock"
+      "availability": "In stock"
+    },
+    {
+      "id": "CT-21170",
+      "name": "Knitted Bear Girl",
+      "brand": "KiddyMart",
+      "img": "https://raw.githubusercontent.com/lubov-nefed/ajax-training/main/images/zadira/product-image-6.jpg",
+      "oldPrice": "47$",
+      "currentPrice": "37$",
+      "starRating": "5",
+      "isDiscounted": {
+        "status": "true",
+        "value": "-25%"
       },
-      {
-        "id": "CT-21057",
-        "name": "Octopus Soft",
-        "brand": "Popkids",
-        "img": "https://raw.githubusercontent.com/lubov-nefed/ajax-training/main/images/zadira/product-image-1.jpg",
-        "oldPrice": "",
-        "currentPrice": "23$",
-        "starRating": "5",
-        "isDiscounted": {
-          "status": "false",
-          "value": ""
-        },
-        "availability": "Out of stock"
+      "availability": "In stock"
+    },
+    {
+      "id": "CT-21057",
+      "name": "Octopus Soft",
+      "brand": "Popkids",
+      "img": "https://raw.githubusercontent.com/lubov-nefed/ajax-training/main/images/zadira/product-image-1.jpg",
+      "oldPrice": "",
+      "currentPrice": "23$",
+      "starRating": "5",
+      "isDiscounted": {
+        "status": "false",
+        "value": ""
       },
-      {
-        "id": "CT-23159",
-        "name": "Teddy Aviator",
-        "brand": "Playzone",
-        "img": "https://raw.githubusercontent.com/lubov-nefed/ajax-training/main/images/zadira/product-image-2.jpg",
-        "oldPrice": "30$",
-        "currentPrice": "25$",
-        "starRating": "3.2",
-        "isDiscounted": {
-          "status": "true",
-          "value": "-20%"
-        },
-        "availability": "Stocked on demand"
-      }
-    ]
-  }
+      "availability": "Out of stock"
+    },
+    {
+      "id": "CT-23159",
+      "name": "Teddy Aviator",
+      "brand": "Playzone",
+      "img": "https://raw.githubusercontent.com/lubov-nefed/ajax-training/main/images/zadira/product-image-2.jpg",
+      "oldPrice": "30$",
+      "currentPrice": "25$",
+      "starRating": "3.2",
+      "isDiscounted": {
+        "status": "true",
+        "value": "-20%"
+      },
+      "availability": "Stocked on demand"
+    }
+  ]
 }
